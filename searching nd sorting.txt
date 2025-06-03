@@ -1,4 +1,4 @@
-LINEAR SEARCH 
+-----------LINEAR SEARCH ----------------
 
 def linear_search(a,key):
     for i in range(len(a)):
@@ -12,7 +12,7 @@ IF WE HAVE DUPLICATES IN THE SAME LIST IT WILL RETURN ONLY FIRST VALUE AND IGNOR
 
 
 
-BINARY SEARCH
+---------------BINARY SEARCH-------------
 
 def binary_search(a,key):
     s=0
@@ -28,7 +28,7 @@ a=[5,8,10,12,41,45,81,108]
 print(binary_search(a,10))
 
 
-BUBBLE SORT
+--------------BUBBLE SORT-------------------
 
 
 
